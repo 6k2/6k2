@@ -22,7 +22,7 @@ I'm a **Software Engineering student** and the **CEO of [Contrum](http://contrum
 - **Programming Languages**: Python, Java, SQL
 - **Web Development**: No yet 😊
 - **Minecraft Plugin Development**: Spigot, Bukkit, PaperMC
-- **Cloud Platforms**: AWS, Azure, Own Dedicated Servers ❤️ (learning!)
+- **OS / Firewall**: I've worked for over 4 years with Linux Based OS System
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Other Tools**: IntelliJ, VSCode, Eclipse
 
@@ -34,5 +34,5 @@ I'm a **Software Engineering student** and the **CEO of [Contrum](http://contrum
 ## 🌐 Find Me Online
 - **Contrum**: [contrum.org](http://contrum.org)
 - **Twitter**: [@6k2_Official](https://twitter.com/6k2_Official)
-- **Email**: [your.email@example.com](mailto:6k2.oficial@gmail.com)
-- **Website**: [Your Website/Blog](https://contrum.org)
+- **Email**: [6k2.oficial@gmail.com](mailto:6k2.oficial@gmail.com)
+- **Website**: [Contrum Site](https://contrum.org)
